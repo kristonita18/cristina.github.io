@@ -1,4 +1,4 @@
-_site/
+.vagrant
 .sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+ _site/
+*log
